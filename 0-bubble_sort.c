@@ -19,7 +19,8 @@ void swap(int *a, int *b)
  * @array: Array to be sorted.
  * @size: Size of the array.
  *
- * Description: Sorts an array in ascending order and prints the array after each swap.
+ * Description: Sorts an array in ascending order and prints the 
+ * array after each swap.
  */
 void bubble_sort(int *array, size_t size)
 {
